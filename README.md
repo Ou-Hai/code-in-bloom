@@ -1,2 +1,11 @@
-# code-in-bloom
-An evolving collection of generative art experiments — flowers, fireworks and mathematical beauty written in Python.
+# 🌸 code-in-bloom
+
+An evolving collection of creative coding experiments — fireworks, flowers, and poetic visuals in Python.
+
+## Setup
+```bash
+uv venv
+source .venv/bin/activate
+uv sync
+
+Gallery

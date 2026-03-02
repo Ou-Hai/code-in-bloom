@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: code-in-bloom
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: <3.13,>=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: matplotlib>=3.10.8
+Requires-Dist: noise>=1.2.2
+Requires-Dist: numpy>=2.4.2
+Requires-Dist: pandas>=3.0.1
+Requires-Dist: pillow>=12.1.1
+Requires-Dist: pygame>=2.6.1
+Requires-Dist: seaborn>=0.13.2
+Dynamic: license-file
+
+# 🌸 code-in-bloom
+
+An evolving collection of creative coding experiments — fireworks, flowers, and poetic visuals in Python.
+
+## Setup
+```bash
+uv venv
+source .venv/bin/activate
+uv sync
+
+Gallery

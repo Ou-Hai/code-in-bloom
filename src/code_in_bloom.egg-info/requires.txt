@@ -1,0 +1,7 @@
+matplotlib>=3.10.8
+noise>=1.2.2
+numpy>=2.4.2
+pandas>=3.0.1
+pillow>=12.1.1
+pygame>=2.6.1
+seaborn>=0.13.2
