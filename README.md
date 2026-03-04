@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="media/banner.png" width="800">
-</p>
-
 <h1 align="center">🌸 code-in-bloom</h1>
 
 <p align="center">
@@ -86,4 +82,3 @@ uv run python examples/rose_show.py
 <p align="center">
 🌸 Built with curiosity, mathematics, and a bit of poetry.
 </p>
-```
