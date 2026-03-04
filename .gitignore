@@ -1,5 +1,4 @@
 **===== Python / uv =====**
-
 .venv/
 pycache/
 *.pyc
@@ -19,4 +18,8 @@ notebooks/.env
 .DS_Store
 notebooks/.DS_Store
 
+**===== media large files =====**
 *.mp4
+
+**===== VSCode  =====**
+.vscode/
